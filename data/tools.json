@@ -1,0 +1,2873 @@
+[
+ {
+  "id": "word-counter",
+  "name": "Word Counter",
+  "category": "text-tools",
+  "description": "Count words, characters, lines and reading time.",
+  "keywords": [
+   "word count",
+   "character count",
+   "text length"
+  ],
+  "popular": true,
+  "featured": true,
+  "status": "active",
+  "offline": true,
+  "privacy": "local"
+ },
+ {
+  "id": "uppercase-converter",
+  "name": "UPPERCASE Converter",
+  "category": "text-tools",
+  "description": "Convert any text to uppercase instantly.",
+  "keywords": [
+   "uppercase",
+   "capital letters",
+   "case converter"
+  ],
+  "popular": false,
+  "featured": false,
+  "status": "active",
+  "offline": true,
+  "privacy": "local"
+ },
+ {
+  "id": "percentage-calculator",
+  "name": "Percentage Calculator",
+  "category": "calculators",
+  "description": "Find X% of a number, and the percentage change between two values.",
+  "keywords": [
+   "percent",
+   "percentage",
+   "increase",
+   "decrease"
+  ],
+  "popular": false,
+  "featured": false,
+  "status": "active",
+  "offline": true,
+  "privacy": "local"
+ },
+ {
+  "id": "password-generator",
+  "name": "Password Generator",
+  "category": "security-tools",
+  "description": "Create strong random passwords using your browser's secure random generator.",
+  "keywords": [
+   "password",
+   "random",
+   "secure"
+  ],
+  "popular": false,
+  "featured": false,
+  "status": "active",
+  "offline": true,
+  "privacy": "local"
+ },
+ {
+  "id": "json-formatter",
+  "name": "JSON Formatter",
+  "category": "developer-tools",
+  "description": "Validate, beautify and minify JSON with clear error messages.",
+  "keywords": [
+   "json",
+   "format",
+   "validate",
+   "beautify"
+  ],
+  "popular": true,
+  "featured": true,
+  "status": "active",
+  "offline": true,
+  "privacy": "local"
+ },
+ {
+  "id": "lowercase-converter",
+  "name": "lowercase Converter",
+  "category": "text-tools",
+  "description": "Convert any text to lowercase instantly.",
+  "keywords": [
+   "lowercase",
+   "small letters"
+  ],
+  "popular": false,
+  "featured": false,
+  "status": "active",
+  "offline": true,
+  "privacy": "local"
+ },
+ {
+  "id": "title-case-converter",
+  "name": "Title Case Converter",
+  "category": "text-tools",
+  "description": "Capitalize the first letter of every word.",
+  "keywords": [
+   "title case",
+   "capitalize"
+  ],
+  "popular": false,
+  "featured": false,
+  "status": "active",
+  "offline": true,
+  "privacy": "local"
+ },
+ {
+  "id": "line-counter",
+  "name": "Line Counter",
+  "category": "text-tools",
+  "description": "Count total and non-empty lines in your text.",
+  "keywords": [
+   "lines",
+   "line count"
+  ],
+  "popular": false,
+  "featured": false,
+  "status": "active",
+  "offline": true,
+  "privacy": "local"
+ },
+ {
+  "id": "character-counter-without-spaces",
+  "name": "Character Counter Without Spaces",
+  "category": "text-tools",
+  "description": "Count characters with and without spaces.",
+  "keywords": [
+   "characters",
+   "no spaces"
+  ],
+  "popular": false,
+  "featured": false,
+  "status": "active",
+  "offline": true,
+  "privacy": "local"
+ },
+ {
+  "id": "slug-generator",
+  "name": "Slug Generator",
+  "category": "text-tools",
+  "description": "Turn a title into a clean URL slug.",
+  "keywords": [
+   "slug",
+   "url",
+   "permalink"
+  ],
+  "popular": false,
+  "featured": false,
+  "status": "active",
+  "offline": true,
+  "privacy": "local"
+ },
+ {
+  "id": "text-cleaner",
+  "name": "Text Cleaner",
+  "category": "text-tools",
+  "description": "Remove extra spaces and blank lines from text.",
+  "keywords": [
+   "clean text",
+   "remove spaces",
+   "blank lines"
+  ],
+  "popular": false,
+  "featured": false,
+  "status": "active",
+  "offline": true,
+  "privacy": "local"
+ },
+ {
+  "id": "sort-text-lines",
+  "name": "Sort Text Lines",
+  "category": "text-tools",
+  "description": "Sort lines of text from A to Z or Z to A.",
+  "keywords": [
+   "sort",
+   "alphabetical",
+   "lines"
+  ],
+  "popular": false,
+  "featured": false,
+  "status": "active",
+  "offline": true,
+  "privacy": "local"
+ },
+ {
+  "id": "area-converter",
+  "name": "Area Converter",
+  "category": "converters",
+  "description": "Convert square meters, feet, acres, hectares and more.",
+  "keywords": [
+   "area",
+   "acre",
+   "hectare",
+   "square feet"
+  ],
+  "popular": false,
+  "featured": false,
+  "status": "active",
+  "offline": true,
+  "privacy": "local"
+ },
+ {
+  "id": "volume-converter",
+  "name": "Volume Converter",
+  "category": "converters",
+  "description": "Convert liters, gallons, cups, milliliters and more.",
+  "keywords": [
+   "volume",
+   "liter",
+   "gallon",
+   "cup"
+  ],
+  "popular": false,
+  "featured": false,
+  "status": "active",
+  "offline": true,
+  "privacy": "local"
+ },
+ {
+  "id": "speed-converter",
+  "name": "Speed Converter",
+  "category": "converters",
+  "description": "Convert km/h, mph, m/s and knots.",
+  "keywords": [
+   "speed",
+   "kmh",
+   "mph",
+   "knots"
+  ],
+  "popular": false,
+  "featured": false,
+  "status": "active",
+  "offline": true,
+  "privacy": "local"
+ },
+ {
+  "id": "energy-converter",
+  "name": "Energy Converter",
+  "category": "converters",
+  "description": "Convert joules, calories, kWh and BTU.",
+  "keywords": [
+   "energy",
+   "joule",
+   "calorie",
+   "kwh"
+  ],
+  "popular": false,
+  "featured": false,
+  "status": "active",
+  "offline": true,
+  "privacy": "local"
+ },
+ {
+  "id": "pressure-converter",
+  "name": "Pressure Converter",
+  "category": "converters",
+  "description": "Convert Pa, bar, atm, psi and mmHg.",
+  "keywords": [
+   "pressure",
+   "psi",
+   "bar",
+   "atm"
+  ],
+  "popular": false,
+  "featured": false,
+  "status": "active",
+  "offline": true,
+  "privacy": "local"
+ },
+ {
+  "id": "frequency-converter",
+  "name": "Frequency Converter",
+  "category": "converters",
+  "description": "Convert Hz, kHz, MHz, GHz and rpm.",
+  "keywords": [
+   "frequency",
+   "hertz",
+   "rpm"
+  ],
+  "popular": false,
+  "featured": false,
+  "status": "active",
+  "offline": true,
+  "privacy": "local"
+ },
+ {
+  "id": "file-size-converter",
+  "name": "File Size Converter",
+  "category": "converters",
+  "description": "Convert bytes, KB, MB, GB and TB.",
+  "keywords": [
+   "file size",
+   "bytes",
+   "mb",
+   "gb"
+  ],
+  "popular": false,
+  "featured": false,
+  "status": "active",
+  "offline": true,
+  "privacy": "local"
+ },
+ {
+  "id": "simple-interest-calculator",
+  "name": "Simple Interest Calculator",
+  "category": "calculators",
+  "description": "Calculate simple interest and total amount.",
+  "keywords": [
+   "simple interest",
+   "interest"
+  ],
+  "popular": false,
+  "featured": false,
+  "status": "active",
+  "offline": true,
+  "privacy": "local"
+ },
+ {
+  "id": "compound-interest-calculator",
+  "name": "Compound Interest Calculator",
+  "category": "calculators",
+  "description": "See how money grows with compound interest.",
+  "keywords": [
+   "compound interest",
+   "investment"
+  ],
+  "popular": false,
+  "featured": false,
+  "status": "active",
+  "offline": true,
+  "privacy": "local"
+ },
+ {
+  "id": "emi-calculator",
+  "name": "EMI Calculator",
+  "category": "calculators",
+  "description": "Work out monthly loan EMI, total payment and interest.",
+  "keywords": [
+   "emi",
+   "loan",
+   "monthly payment"
+  ],
+  "popular": false,
+  "featured": false,
+  "status": "active",
+  "offline": true,
+  "privacy": "local"
+ },
+ {
+  "id": "average-calculator",
+  "name": "Average Calculator",
+  "category": "calculators",
+  "description": "Average, median, sum, min and max of a list of numbers.",
+  "keywords": [
+   "average",
+   "mean",
+   "median"
+  ],
+  "popular": false,
+  "featured": false,
+  "status": "active",
+  "offline": true,
+  "privacy": "local"
+ },
+ {
+  "id": "days-between-dates",
+  "name": "Days Between Dates",
+  "category": "calculators",
+  "description": "Count the days between two dates.",
+  "keywords": [
+   "days between",
+   "date difference"
+  ],
+  "popular": false,
+  "featured": false,
+  "status": "active",
+  "offline": true,
+  "privacy": "local"
+ },
+ {
+  "id": "url-encoder",
+  "name": "URL Encoder",
+  "category": "developer-tools",
+  "description": "Percent-encode text for safe use in URLs.",
+  "keywords": [
+   "url encode",
+   "percent encoding"
+  ],
+  "popular": false,
+  "featured": false,
+  "status": "active",
+  "offline": true,
+  "privacy": "local"
+ },
+ {
+  "id": "url-decoder",
+  "name": "URL Decoder",
+  "category": "developer-tools",
+  "description": "Decode percent-encoded URL text.",
+  "keywords": [
+   "url decode"
+  ],
+  "popular": false,
+  "featured": false,
+  "status": "active",
+  "offline": true,
+  "privacy": "local"
+ },
+ {
+  "id": "timestamp-converter",
+  "name": "Timestamp Converter",
+  "category": "developer-tools",
+  "description": "Convert Unix timestamps to dates and back.",
+  "keywords": [
+   "timestamp",
+   "unix",
+   "epoch"
+  ],
+  "popular": false,
+  "featured": false,
+  "status": "active",
+  "offline": true,
+  "privacy": "local"
+ },
+ {
+  "id": "paragraph-counter",
+  "name": "Paragraph Counter",
+  "category": "text-tools",
+  "description": "Count paragraphs in your text.",
+  "keywords": [
+   "paragraph counter",
+   "paragraph counter"
+  ],
+  "popular": false,
+  "featured": false,
+  "status": "active",
+  "offline": true,
+  "privacy": "local"
+ },
+ {
+  "id": "reading-time-calculator",
+  "name": "Reading Time Calculator",
+  "category": "text-tools",
+  "description": "Estimate reading and speaking time for any text.",
+  "keywords": [
+   "reading time calculator",
+   "reading time calculator"
+  ],
+  "popular": false,
+  "featured": false,
+  "status": "active",
+  "offline": true,
+  "privacy": "local"
+ },
+ {
+  "id": "text-compare",
+  "name": "Text Compare",
+  "category": "text-tools",
+  "description": "Find lines that differ between two texts.",
+  "keywords": [
+   "text compare",
+   "text compare"
+  ],
+  "popular": false,
+  "featured": false,
+  "status": "active",
+  "offline": true,
+  "privacy": "local"
+ },
+ {
+  "id": "lorem-ipsum-generator",
+  "name": "Lorem Ipsum Generator",
+  "category": "text-tools",
+  "description": "Generate placeholder paragraphs.",
+  "keywords": [
+   "lorem ipsum generator",
+   "lorem ipsum generator"
+  ],
+  "popular": false,
+  "featured": false,
+  "status": "active",
+  "offline": true,
+  "privacy": "local"
+ },
+ {
+  "id": "text-to-list",
+  "name": "Text to List",
+  "category": "text-tools",
+  "description": "Turn comma or space separated text into a list.",
+  "keywords": [
+   "text to list",
+   "text to list"
+  ],
+  "popular": false,
+  "featured": false,
+  "status": "active",
+  "offline": true,
+  "privacy": "local"
+ },
+ {
+  "id": "list-to-text",
+  "name": "List to Text",
+  "category": "text-tools",
+  "description": "Join list items into a single line.",
+  "keywords": [
+   "list to text",
+   "list to text"
+  ],
+  "popular": false,
+  "featured": false,
+  "status": "active",
+  "offline": true,
+  "privacy": "local"
+ },
+ {
+  "id": "text-splitter",
+  "name": "Text Splitter",
+  "category": "text-tools",
+  "description": "Split text into lines at any delimiter.",
+  "keywords": [
+   "text splitter",
+   "text splitter"
+  ],
+  "popular": false,
+  "featured": false,
+  "status": "active",
+  "offline": true,
+  "privacy": "local"
+ },
+ {
+  "id": "text-joiner",
+  "name": "Text Joiner",
+  "category": "text-tools",
+  "description": "Join lines with any separator.",
+  "keywords": [
+   "text joiner",
+   "text joiner"
+  ],
+  "popular": false,
+  "featured": false,
+  "status": "active",
+  "offline": true,
+  "privacy": "local"
+ },
+ {
+  "id": "date-difference-calculator",
+  "name": "Date Difference Calculator",
+  "category": "calculators",
+  "description": "Years, months and days between two dates.",
+  "keywords": [
+   "date difference calculator",
+   "date difference calculator"
+  ],
+  "popular": false,
+  "featured": false,
+  "status": "active",
+  "offline": true,
+  "privacy": "local"
+ },
+ {
+  "id": "percentage-increase-decrease",
+  "name": "Percentage Increase/Decrease",
+  "category": "calculators",
+  "description": "Find the percentage change between two values.",
+  "keywords": [
+   "percentage increase/decrease calculator",
+   "percentage change calculator"
+  ],
+  "popular": false,
+  "featured": false,
+  "status": "active",
+  "offline": true,
+  "privacy": "local"
+ },
+ {
+  "id": "loan-calculator",
+  "name": "Loan Calculator",
+  "category": "calculators",
+  "description": "Monthly payment and total interest for a loan.",
+  "keywords": [
+   "loan calculator",
+   "loan calculator"
+  ],
+  "popular": false,
+  "featured": false,
+  "status": "active",
+  "offline": true,
+  "privacy": "local"
+ },
+ {
+  "id": "ratio-calculator",
+  "name": "Ratio Calculator",
+  "category": "calculators",
+  "description": "Simplify a ratio of two numbers.",
+  "keywords": [
+   "ratio calculator",
+   "ratio calculator"
+  ],
+  "popular": false,
+  "featured": false,
+  "status": "active",
+  "offline": true,
+  "privacy": "local"
+ },
+ {
+  "id": "fraction-calculator",
+  "name": "Fraction Calculator",
+  "category": "calculators",
+  "description": "Add, subtract, multiply and divide fractions.",
+  "keywords": [
+   "fraction calculator",
+   "fraction calculator"
+  ],
+  "popular": false,
+  "featured": false,
+  "status": "active",
+  "offline": true,
+  "privacy": "local"
+ },
+ {
+  "id": "bmr-calculator",
+  "name": "BMR Calculator",
+  "category": "calculators",
+  "description": "Estimate basal metabolic rate.",
+  "keywords": [
+   "bmr calculator",
+   "bmr calculator"
+  ],
+  "popular": false,
+  "featured": false,
+  "status": "active",
+  "offline": true,
+  "privacy": "local"
+ },
+ {
+  "id": "time-duration-calculator",
+  "name": "Time Duration Calculator",
+  "category": "calculators",
+  "description": "Time between two clock times.",
+  "keywords": [
+   "time duration calculator",
+   "time duration calculator"
+  ],
+  "popular": false,
+  "featured": false,
+  "status": "active",
+  "offline": true,
+  "privacy": "local"
+ },
+ {
+  "id": "date-add-subtract-calculator",
+  "name": "Date Add/Subtract Calculator",
+  "category": "calculators",
+  "description": "Add or subtract days, weeks, months or years.",
+  "keywords": [
+   "date add/subtract calculator",
+   "date add subtract calculator"
+  ],
+  "popular": false,
+  "featured": false,
+  "status": "active",
+  "offline": true,
+  "privacy": "local"
+ },
+ {
+  "id": "age-at-date-calculator",
+  "name": "Age-at-Date Calculator",
+  "category": "calculators",
+  "description": "Work out age on any chosen date.",
+  "keywords": [
+   "age-at-date calculator",
+   "age at date calculator"
+  ],
+  "popular": false,
+  "featured": false,
+  "status": "active",
+  "offline": true,
+  "privacy": "local"
+ },
+ {
+  "id": "number-to-words-converter",
+  "name": "Number-to-Words Converter",
+  "category": "calculators",
+  "description": "Write numbers in English words.",
+  "keywords": [
+   "number-to-words converter",
+   "number to words converter"
+  ],
+  "popular": false,
+  "featured": false,
+  "status": "active",
+  "offline": true,
+  "privacy": "local"
+ },
+ {
+  "id": "overtime-calculator",
+  "name": "Overtime Calculator",
+  "category": "business-tools",
+  "description": "Calculate regular and overtime pay.",
+  "keywords": [
+   "overtime calculator",
+   "overtime calculator"
+  ],
+  "popular": false,
+  "featured": false,
+  "status": "active",
+  "offline": true,
+  "privacy": "local"
+ },
+ {
+  "id": "salary-calculator",
+  "name": "Salary Calculator",
+  "category": "business-tools",
+  "description": "Convert salary between annual, monthly and hourly.",
+  "keywords": [
+   "salary calculator",
+   "salary calculator"
+  ],
+  "popular": false,
+  "featured": false,
+  "status": "active",
+  "offline": true,
+  "privacy": "local"
+ },
+ {
+  "id": "number-base-converter",
+  "name": "Number/Base Converter",
+  "category": "converters",
+  "description": "Convert between binary, octal, decimal and hex.",
+  "keywords": [
+   "number/base converter",
+   "number base converter"
+  ],
+  "popular": false,
+  "featured": false,
+  "status": "active",
+  "offline": true,
+  "privacy": "local"
+ },
+ {
+  "id": "number-formatter",
+  "name": "Number Formatter",
+  "category": "converters",
+  "description": "Format numbers with separators and decimals.",
+  "keywords": [
+   "number formatter",
+   "number formatter"
+  ],
+  "popular": false,
+  "featured": false,
+  "status": "active",
+  "offline": true,
+  "privacy": "local"
+ },
+ {
+  "id": "roman-numeral-converter",
+  "name": "Roman Numeral Converter",
+  "category": "converters",
+  "description": "Convert numbers to Roman numerals and back.",
+  "keywords": [
+   "roman numeral converter",
+   "roman numeral converter"
+  ],
+  "popular": false,
+  "featured": false,
+  "status": "active",
+  "offline": true,
+  "privacy": "local"
+ },
+ {
+  "id": "random-choice-generator",
+  "name": "Random Choice Generator",
+  "category": "security-tools",
+  "description": "Pick one option at random.",
+  "keywords": [
+   "random choice generator",
+   "random choice generator"
+  ],
+  "popular": false,
+  "featured": false,
+  "status": "active",
+  "offline": true,
+  "privacy": "local"
+ },
+ {
+  "id": "hash-generator",
+  "name": "Hash Generator",
+  "category": "security-tools",
+  "description": "Create SHA hashes locally in your browser.",
+  "keywords": [
+   "hash generator",
+   "hash generator"
+  ],
+  "popular": false,
+  "featured": false,
+  "status": "active",
+  "offline": true,
+  "privacy": "local"
+ },
+ {
+  "id": "strong-password-checker",
+  "name": "Strong Password Checker",
+  "category": "security-tools",
+  "description": "Check password strength without sending it anywhere.",
+  "keywords": [
+   "strong password checker",
+   "strong password checker"
+  ],
+  "popular": false,
+  "featured": false,
+  "status": "active",
+  "offline": true,
+  "privacy": "local"
+ },
+ {
+  "id": "jwt-decoder",
+  "name": "JWT Decoder",
+  "category": "developer-tools",
+  "description": "Read a JWT header and payload. Does not verify it.",
+  "keywords": [
+   "jwt decoder",
+   "jwt decoder"
+  ],
+  "popular": false,
+  "featured": false,
+  "status": "active",
+  "offline": true,
+  "privacy": "local"
+ },
+ {
+  "id": "url-parser",
+  "name": "URL Parser",
+  "category": "developer-tools",
+  "description": "Break a URL into its parts.",
+  "keywords": [
+   "url parser",
+   "url parser"
+  ],
+  "popular": false,
+  "featured": false,
+  "status": "active",
+  "offline": true,
+  "privacy": "local"
+ },
+ {
+  "id": "query-string-parser",
+  "name": "Query String Parser",
+  "category": "developer-tools",
+  "description": "List the parameters in a query string.",
+  "keywords": [
+   "query string parser",
+   "query string parser"
+  ],
+  "popular": false,
+  "featured": false,
+  "status": "active",
+  "offline": true,
+  "privacy": "local"
+ },
+ {
+  "id": "color-converter",
+  "name": "Color Converter",
+  "category": "developer-tools",
+  "description": "Convert HEX, RGB and HSL colours.",
+  "keywords": [
+   "color converter",
+   "color converter"
+  ],
+  "popular": false,
+  "featured": false,
+  "status": "active",
+  "offline": true,
+  "privacy": "local"
+ },
+ {
+  "id": "regex-tester",
+  "name": "Regex Tester",
+  "category": "developer-tools",
+  "description": "Test a regular expression against text.",
+  "keywords": [
+   "regex tester",
+   "regex tester"
+  ],
+  "popular": false,
+  "featured": false,
+  "status": "active",
+  "offline": true,
+  "privacy": "local"
+ },
+ {
+  "id": "csv-to-json",
+  "name": "CSV to JSON",
+  "category": "developer-tools",
+  "description": "Convert CSV into JSON.",
+  "keywords": [
+   "csv to json",
+   "csv to json"
+  ],
+  "popular": false,
+  "featured": false,
+  "status": "active",
+  "offline": true,
+  "privacy": "local"
+ },
+ {
+  "id": "json-to-csv",
+  "name": "JSON to CSV",
+  "category": "developer-tools",
+  "description": "Convert a JSON array into CSV.",
+  "keywords": [
+   "json to csv",
+   "json to csv"
+  ],
+  "popular": false,
+  "featured": false,
+  "status": "active",
+  "offline": true,
+  "privacy": "local"
+ },
+ {
+  "id": "contrast-checker",
+  "name": "Contrast Checker",
+  "category": "design-tools",
+  "description": "Check WCAG contrast between two colours.",
+  "keywords": [
+   "contrast checker",
+   "contrast checker"
+  ],
+  "popular": false,
+  "featured": false,
+  "status": "active",
+  "offline": true,
+  "privacy": "local"
+ },
+ {
+  "id": "hex-color-generator",
+  "name": "HEX Color Generator",
+  "category": "design-tools",
+  "description": "Generate random HEX colours.",
+  "keywords": [
+   "hex color generator",
+   "hex color generator"
+  ],
+  "popular": false,
+  "featured": false,
+  "status": "active",
+  "offline": true,
+  "privacy": "local"
+ },
+ {
+  "id": "split-bill-calculator",
+  "name": "Split Bill Calculator",
+  "category": "business-tools",
+  "description": "Split a bill and tip between people.",
+  "keywords": [
+   "split bill calculator",
+   "split bill calculator"
+  ],
+  "popular": false,
+  "featured": false,
+  "status": "active",
+  "offline": true,
+  "privacy": "local"
+ },
+ {
+  "id": "attendance-calculator",
+  "name": "Attendance Calculator",
+  "category": "business-tools",
+  "description": "Attendance percentage from present days.",
+  "keywords": [
+   "attendance calculator",
+   "attendance calculator"
+  ],
+  "popular": false,
+  "featured": false,
+  "status": "active",
+  "offline": true,
+  "privacy": "local"
+ },
+ {
+  "id": "work-hours-calculator",
+  "name": "Work Hours Calculator",
+  "category": "business-tools",
+  "description": "Hours worked, breaks and overtime, including overnight shifts.",
+  "keywords": [
+   "work hours calculator",
+   "work hours calculator"
+  ],
+  "popular": false,
+  "featured": false,
+  "status": "active",
+  "offline": true,
+  "privacy": "local"
+ },
+ {
+  "id": "leave-days-calculator",
+  "name": "Leave Days Calculator",
+  "category": "business-tools",
+  "description": "Count leave days with optional weekends and holidays.",
+  "keywords": [
+   "leave days calculator",
+   "leave days calculator"
+  ],
+  "popular": false,
+  "featured": false,
+  "status": "active",
+  "offline": true,
+  "privacy": "local"
+ },
+ {
+  "id": "character-counter",
+  "name": "Character Counter",
+  "category": "text-tools",
+  "description": "Count characters with and without spaces.",
+  "keywords": [
+   "character counter",
+   "character counter"
+  ],
+  "popular": false,
+  "featured": false,
+  "status": "active",
+  "offline": true,
+  "privacy": "local"
+ },
+ {
+  "id": "sentence-counter",
+  "name": "Sentence Counter",
+  "category": "text-tools",
+  "description": "Count sentences in your text.",
+  "keywords": [
+   "sentence counter",
+   "sentence counter"
+  ],
+  "popular": false,
+  "featured": false,
+  "status": "active",
+  "offline": true,
+  "privacy": "local"
+ },
+ {
+  "id": "text-case-converter",
+  "name": "Text Case Converter",
+  "category": "text-tools",
+  "description": "Convert text to upper, lower, title, sentence, camel, snake or kebab case.",
+  "keywords": [
+   "text case converter",
+   "text case converter"
+  ],
+  "popular": false,
+  "featured": false,
+  "status": "active",
+  "offline": true,
+  "privacy": "local"
+ },
+ {
+  "id": "remove-extra-spaces",
+  "name": "Remove Extra Spaces",
+  "category": "text-tools",
+  "description": "Collapse repeated spaces and trim lines.",
+  "keywords": [
+   "remove extra spaces",
+   "remove extra spaces"
+  ],
+  "popular": false,
+  "featured": false,
+  "status": "active",
+  "offline": true,
+  "privacy": "local"
+ },
+ {
+  "id": "remove-empty-lines",
+  "name": "Remove Empty Lines",
+  "category": "text-tools",
+  "description": "Delete blank lines from text.",
+  "keywords": [
+   "remove empty lines",
+   "remove empty lines"
+  ],
+  "popular": false,
+  "featured": false,
+  "status": "active",
+  "offline": true,
+  "privacy": "local"
+ },
+ {
+  "id": "remove-duplicate-lines",
+  "name": "Remove Duplicate Lines",
+  "category": "text-tools",
+  "description": "Keep only the first copy of each line.",
+  "keywords": [
+   "remove duplicate lines",
+   "remove duplicate lines"
+  ],
+  "popular": false,
+  "featured": false,
+  "status": "active",
+  "offline": true,
+  "privacy": "local"
+ },
+ {
+  "id": "reverse-text",
+  "name": "Reverse Text",
+  "category": "text-tools",
+  "description": "Reverse the order of characters in your text.",
+  "keywords": [
+   "reverse text",
+   "reverse text"
+  ],
+  "popular": false,
+  "featured": false,
+  "status": "active",
+  "offline": true,
+  "privacy": "local"
+ },
+ {
+  "id": "find-replace",
+  "name": "Find & Replace",
+  "category": "text-tools",
+  "description": "Find text and replace every match.",
+  "keywords": [
+   "find & replace",
+   "find replace"
+  ],
+  "popular": false,
+  "featured": false,
+  "status": "active",
+  "offline": true,
+  "privacy": "local"
+ },
+ {
+  "id": "age-calculator",
+  "name": "Age Calculator",
+  "category": "calculators",
+  "description": "Your exact age in years, months and days.",
+  "keywords": [
+   "age calculator",
+   "age calculator"
+  ],
+  "popular": true,
+  "featured": true,
+  "status": "active",
+  "offline": true,
+  "privacy": "local"
+ },
+ {
+  "id": "discount-calculator",
+  "name": "Discount Calculator",
+  "category": "calculators",
+  "description": "Work out the sale price and savings.",
+  "keywords": [
+   "discount calculator",
+   "discount calculator"
+  ],
+  "popular": false,
+  "featured": false,
+  "status": "active",
+  "offline": true,
+  "privacy": "local"
+ },
+ {
+  "id": "gst-calculator",
+  "name": "GST Calculator",
+  "category": "calculators",
+  "description": "Add or remove GST from an amount.",
+  "keywords": [
+   "gst calculator",
+   "gst calculator"
+  ],
+  "popular": false,
+  "featured": false,
+  "status": "active",
+  "offline": true,
+  "privacy": "local"
+ },
+ {
+  "id": "profit-loss-calculator",
+  "name": "Profit/Loss Calculator",
+  "category": "calculators",
+  "description": "Profit or loss and percentage from cost and selling price.",
+  "keywords": [
+   "profit/loss calculator",
+   "profit loss calculator"
+  ],
+  "popular": false,
+  "featured": false,
+  "status": "active",
+  "offline": true,
+  "privacy": "local"
+ },
+ {
+  "id": "tip-calculator",
+  "name": "Tip Calculator",
+  "category": "calculators",
+  "description": "Tip, total and per-person amount.",
+  "keywords": [
+   "tip calculator",
+   "tip calculator"
+  ],
+  "popular": false,
+  "featured": false,
+  "status": "active",
+  "offline": true,
+  "privacy": "local"
+ },
+ {
+  "id": "bmi-calculator",
+  "name": "BMI Calculator",
+  "category": "calculators",
+  "description": "Body mass index from weight and height.",
+  "keywords": [
+   "bmi calculator",
+   "bmi calculator"
+  ],
+  "popular": false,
+  "featured": false,
+  "status": "active",
+  "offline": true,
+  "privacy": "local"
+ },
+ {
+  "id": "calorie-calculator",
+  "name": "Calorie Calculator",
+  "category": "calculators",
+  "description": "Estimate daily maintenance calories.",
+  "keywords": [
+   "calorie calculator",
+   "calorie calculator"
+  ],
+  "popular": false,
+  "featured": false,
+  "status": "active",
+  "offline": true,
+  "privacy": "local"
+ },
+ {
+  "id": "length-converter",
+  "name": "Length Converter",
+  "category": "converters",
+  "description": "Convert metres, feet, inches, miles and more.",
+  "keywords": [
+   "length converter",
+   "length converter"
+  ],
+  "popular": false,
+  "featured": false,
+  "status": "active",
+  "offline": true,
+  "privacy": "local"
+ },
+ {
+  "id": "weight-converter",
+  "name": "Weight Converter",
+  "category": "converters",
+  "description": "Convert kilograms, pounds, ounces and more.",
+  "keywords": [
+   "weight converter",
+   "weight converter"
+  ],
+  "popular": false,
+  "featured": false,
+  "status": "active",
+  "offline": true,
+  "privacy": "local"
+ },
+ {
+  "id": "time-converter",
+  "name": "Time Converter",
+  "category": "converters",
+  "description": "Convert seconds, minutes, hours, days and weeks.",
+  "keywords": [
+   "time converter",
+   "time converter"
+  ],
+  "popular": false,
+  "featured": false,
+  "status": "active",
+  "offline": true,
+  "privacy": "local"
+ },
+ {
+  "id": "data-storage-converter",
+  "name": "Data Storage Converter",
+  "category": "converters",
+  "description": "Convert between decimal (KB) and binary (KiB) units.",
+  "keywords": [
+   "data storage converter",
+   "data storage converter"
+  ],
+  "popular": false,
+  "featured": false,
+  "status": "active",
+  "offline": true,
+  "privacy": "local"
+ },
+ {
+  "id": "temperature-converter",
+  "name": "Temperature Converter",
+  "category": "converters",
+  "description": "Convert Celsius, Fahrenheit and Kelvin.",
+  "keywords": [
+   "temperature converter",
+   "temperature converter"
+  ],
+  "popular": false,
+  "featured": false,
+  "status": "active",
+  "offline": true,
+  "privacy": "local"
+ },
+ {
+  "id": "pin-generator",
+  "name": "PIN Generator",
+  "category": "security-tools",
+  "description": "Generate a random numeric PIN.",
+  "keywords": [
+   "pin generator",
+   "pin generator"
+  ],
+  "popular": false,
+  "featured": false,
+  "status": "active",
+  "offline": true,
+  "privacy": "local"
+ },
+ {
+  "id": "random-number-generator",
+  "name": "Random Number Generator",
+  "category": "security-tools",
+  "description": "Random whole numbers within a range.",
+  "keywords": [
+   "random number generator",
+   "random number generator"
+  ],
+  "popular": false,
+  "featured": false,
+  "status": "active",
+  "offline": true,
+  "privacy": "local"
+ },
+ {
+  "id": "username-generator",
+  "name": "Username Generator",
+  "category": "security-tools",
+  "description": "Generate random usernames.",
+  "keywords": [
+   "username generator",
+   "username generator"
+  ],
+  "popular": false,
+  "featured": false,
+  "status": "active",
+  "offline": true,
+  "privacy": "local"
+ },
+ {
+  "id": "uuid-generator",
+  "name": "UUID Generator",
+  "category": "security-tools",
+  "description": "Generate version 4 UUIDs.",
+  "keywords": [
+   "uuid generator",
+   "uuid generator"
+  ],
+  "popular": false,
+  "featured": false,
+  "status": "active",
+  "offline": true,
+  "privacy": "local"
+ },
+ {
+  "id": "base64-encoder",
+  "name": "Base64 Encoder",
+  "category": "security-tools",
+  "description": "Encode text to Base64.",
+  "keywords": [
+   "base64 encoder",
+   "base64 encoder"
+  ],
+  "popular": false,
+  "featured": false,
+  "status": "active",
+  "offline": true,
+  "privacy": "local"
+ },
+ {
+  "id": "base64-decoder",
+  "name": "Base64 Decoder",
+  "category": "security-tools",
+  "description": "Decode Base64 back to text.",
+  "keywords": [
+   "base64 decoder",
+   "base64 decoder"
+  ],
+  "popular": false,
+  "featured": false,
+  "status": "active",
+  "offline": true,
+  "privacy": "local"
+ },
+ {
+  "id": "json-validator",
+  "name": "JSON Validator",
+  "category": "developer-tools",
+  "description": "Check whether JSON is valid.",
+  "keywords": [
+   "json validator",
+   "json validator"
+  ],
+  "popular": false,
+  "featured": false,
+  "status": "active",
+  "offline": true,
+  "privacy": "local"
+ },
+ {
+  "id": "json-minifier",
+  "name": "JSON Minifier",
+  "category": "developer-tools",
+  "description": "Remove whitespace from JSON.",
+  "keywords": [
+   "json minifier",
+   "json minifier"
+  ],
+  "popular": false,
+  "featured": false,
+  "status": "active",
+  "offline": true,
+  "privacy": "local"
+ },
+ {
+  "id": "json-viewer",
+  "name": "JSON Viewer",
+  "category": "developer-tools",
+  "description": "View every JSON value with its path.",
+  "keywords": [
+   "json viewer",
+   "json viewer"
+  ],
+  "popular": false,
+  "featured": false,
+  "status": "active",
+  "offline": true,
+  "privacy": "local"
+ },
+ {
+  "id": "hex-to-rgb",
+  "name": "HEX to RGB",
+  "category": "developer-tools",
+  "description": "Convert a HEX colour to RGB.",
+  "keywords": [
+   "hex to rgb",
+   "hex to rgb"
+  ],
+  "popular": false,
+  "featured": false,
+  "status": "active",
+  "offline": true,
+  "privacy": "local"
+ },
+ {
+  "id": "rgb-to-hex",
+  "name": "RGB to HEX",
+  "category": "developer-tools",
+  "description": "Convert RGB values to HEX.",
+  "keywords": [
+   "rgb to hex",
+   "rgb to hex"
+  ],
+  "popular": false,
+  "featured": false,
+  "status": "active",
+  "offline": true,
+  "privacy": "local"
+ },
+ {
+  "id": "rgb-to-hsl",
+  "name": "RGB to HSL",
+  "category": "developer-tools",
+  "description": "Convert RGB values to HSL.",
+  "keywords": [
+   "rgb to hsl",
+   "rgb to hsl"
+  ],
+  "popular": false,
+  "featured": false,
+  "status": "active",
+  "offline": true,
+  "privacy": "local"
+ },
+ {
+  "id": "unix-timestamp-converter",
+  "name": "Unix Timestamp Converter",
+  "category": "developer-tools",
+  "description": "Unix time to date and date to Unix time.",
+  "keywords": [
+   "unix timestamp converter",
+   "unix timestamp converter"
+  ],
+  "popular": false,
+  "featured": false,
+  "status": "active",
+  "offline": true,
+  "privacy": "local"
+ },
+ {
+  "id": "user-agent-parser",
+  "name": "User Agent Parser",
+  "category": "developer-tools",
+  "description": "Read browser, OS and device from a user agent.",
+  "keywords": [
+   "user agent parser",
+   "user agent parser"
+  ],
+  "popular": false,
+  "featured": false,
+  "status": "active",
+  "offline": true,
+  "privacy": "local"
+ },
+ {
+  "id": "color-picker",
+  "name": "Color Picker",
+  "category": "design-tools",
+  "description": "Pick a colour and get HEX, RGB and HSL.",
+  "keywords": [
+   "color picker",
+   "color picker"
+  ],
+  "popular": false,
+  "featured": false,
+  "status": "active",
+  "offline": true,
+  "privacy": "local"
+ },
+ {
+  "id": "random-color-generator",
+  "name": "Random Color Generator",
+  "category": "design-tools",
+  "description": "Random colours in HEX and RGB.",
+  "keywords": [
+   "random color generator",
+   "random color generator"
+  ],
+  "popular": false,
+  "featured": false,
+  "status": "active",
+  "offline": true,
+  "privacy": "local"
+ },
+ {
+  "id": "aspect-ratio-calculator",
+  "name": "Aspect Ratio Calculator",
+  "category": "utilities",
+  "description": "Simplify a width and height into an aspect ratio.",
+  "keywords": [
+   "aspect ratio calculator",
+   "aspect ratio calculator"
+  ],
+  "popular": false,
+  "featured": false,
+  "status": "active",
+  "offline": true,
+  "privacy": "local"
+ },
+ {
+  "id": "screen-resolution-checker",
+  "name": "Screen Resolution Checker",
+  "category": "utilities",
+  "description": "See your screen size, viewport and pixel ratio.",
+  "keywords": [
+   "screen resolution checker",
+   "screen resolution checker"
+  ],
+  "popular": false,
+  "featured": false,
+  "status": "active",
+  "offline": true,
+  "privacy": "local"
+ },
+ {
+  "id": "browser-information",
+  "name": "Browser Information",
+  "category": "utilities",
+  "description": "See what your browser reports about itself.",
+  "keywords": [
+   "browser information",
+   "browser information"
+  ],
+  "popular": false,
+  "featured": false,
+  "status": "active",
+  "offline": true,
+  "privacy": "local"
+ },
+ {
+  "id": "device-information",
+  "name": "Device Information",
+  "category": "utilities",
+  "description": "View non-sensitive device details your browser exposes.",
+  "keywords": [
+   "device information",
+   "device information"
+  ],
+  "popular": false,
+  "featured": false,
+  "status": "active",
+  "offline": true,
+  "privacy": "local"
+ },
+ {
+  "id": "online-offline-detector",
+  "name": "Online/Offline Detector",
+  "category": "utilities",
+  "description": "Check whether your browser reports a connection.",
+  "keywords": [
+   "online/offline detector",
+   "online offline detector"
+  ],
+  "popular": false,
+  "featured": false,
+  "status": "active",
+  "offline": true,
+  "privacy": "local"
+ },
+ {
+  "id": "battery-information",
+  "name": "Battery Information",
+  "category": "utilities",
+  "description": "Battery level and charging status where supported.",
+  "keywords": [
+   "battery information",
+   "battery information"
+  ],
+  "popular": false,
+  "featured": false,
+  "status": "active",
+  "offline": true,
+  "privacy": "local"
+ },
+ {
+  "id": "network-information",
+  "name": "Network Information",
+  "category": "utilities",
+  "description": "Connection type estimates where supported.",
+  "keywords": [
+   "network information",
+   "network information"
+  ],
+  "popular": false,
+  "featured": false,
+  "status": "active",
+  "offline": true,
+  "privacy": "local"
+ },
+ {
+  "id": "stopwatch",
+  "name": "Stopwatch",
+  "category": "utilities",
+  "description": "Start, stop and record laps.",
+  "keywords": [
+   "stopwatch",
+   "stopwatch"
+  ],
+  "popular": false,
+  "featured": false,
+  "status": "active",
+  "offline": true,
+  "privacy": "local"
+ },
+ {
+  "id": "digital-clock",
+  "name": "Digital Clock",
+  "category": "utilities",
+  "description": "A live clock in 12 or 24-hour format.",
+  "keywords": [
+   "digital clock",
+   "digital clock"
+  ],
+  "popular": false,
+  "featured": false,
+  "status": "active",
+  "offline": true,
+  "privacy": "local"
+ },
+ {
+  "id": "timer",
+  "name": "Timer",
+  "category": "utilities",
+  "description": "Count down from minutes and seconds.",
+  "keywords": [
+   "timer",
+   "timer"
+  ],
+  "popular": false,
+  "featured": false,
+  "status": "active",
+  "offline": true,
+  "privacy": "local"
+ },
+ {
+  "id": "countdown-timer",
+  "name": "Countdown Timer",
+  "category": "utilities",
+  "description": "Count down to a date and time.",
+  "keywords": [
+   "countdown timer",
+   "countdown timer"
+  ],
+  "popular": false,
+  "featured": false,
+  "status": "active",
+  "offline": true,
+  "privacy": "local"
+ },
+ {
+  "id": "keyboard-tester",
+  "name": "Keyboard Tester",
+  "category": "utilities",
+  "description": "See which key and code each key press sends.",
+  "keywords": [
+   "keyboard tester",
+   "keyboard tester"
+  ],
+  "popular": false,
+  "featured": false,
+  "status": "active",
+  "offline": true,
+  "privacy": "local"
+ },
+ {
+  "id": "mouse-tester",
+  "name": "Mouse Tester",
+  "category": "utilities",
+  "description": "Test mouse buttons, movement and scroll.",
+  "keywords": [
+   "mouse tester",
+   "mouse tester"
+  ],
+  "popular": false,
+  "featured": false,
+  "status": "active",
+  "offline": true,
+  "privacy": "local"
+ },
+ {
+  "id": "invoice-calculator",
+  "name": "Invoice Calculator",
+  "category": "business-tools",
+  "description": "Subtotal, discount, tax and total from line items.",
+  "keywords": [
+   "invoice calculator",
+   "invoice calculator"
+  ],
+  "popular": false,
+  "featured": false,
+  "status": "active",
+  "offline": true,
+  "privacy": "local"
+ },
+ {
+  "id": "expense-calculator",
+  "name": "Expense Calculator",
+  "category": "business-tools",
+  "description": "Total and average of a list of expenses.",
+  "keywords": [
+   "expense calculator",
+   "expense calculator"
+  ],
+  "popular": false,
+  "featured": false,
+  "status": "active",
+  "offline": true,
+  "privacy": "local"
+ },
+ {
+  "id": "payslip-calculator",
+  "name": "Payslip Calculator",
+  "category": "business-tools",
+  "description": "Gross and net pay from the figures you enter.",
+  "keywords": [
+   "payslip calculator",
+   "payslip calculator"
+  ],
+  "popular": false,
+  "featured": false,
+  "status": "active",
+  "offline": true,
+  "privacy": "local"
+ },
+ {
+  "id": "color-palette-generator",
+  "name": "Color Palette Generator",
+  "category": "design-tools",
+  "description": "Build a colour palette from a base colour.",
+  "keywords": [
+   "color palette generator",
+   "color palette generator"
+  ],
+  "popular": false,
+  "featured": false,
+  "status": "active",
+  "offline": true,
+  "privacy": "local"
+ },
+ {
+  "id": "gradient-generator",
+  "name": "Gradient Generator",
+  "category": "design-tools",
+  "description": "Two-colour gradient with live preview and CSS.",
+  "keywords": [
+   "gradient generator",
+   "gradient generator"
+  ],
+  "popular": false,
+  "featured": false,
+  "status": "active",
+  "offline": true,
+  "privacy": "local"
+ },
+ {
+  "id": "css-gradient-generator",
+  "name": "CSS Gradient Generator",
+  "category": "design-tools",
+  "description": "Linear or radial CSS gradients with preview.",
+  "keywords": [
+   "css gradient generator",
+   "css gradient generator"
+  ],
+  "popular": false,
+  "featured": false,
+  "status": "active",
+  "offline": true,
+  "privacy": "local"
+ },
+ {
+  "id": "css-box-shadow-generator",
+  "name": "CSS Box Shadow Generator",
+  "category": "design-tools",
+  "description": "Design a box shadow with live preview.",
+  "keywords": [
+   "css box shadow generator",
+   "css box shadow generator"
+  ],
+  "popular": false,
+  "featured": false,
+  "status": "active",
+  "offline": true,
+  "privacy": "local"
+ },
+ {
+  "id": "css-border-radius-generator",
+  "name": "CSS Border Radius Generator",
+  "category": "design-tools",
+  "description": "Set each corner radius with live preview.",
+  "keywords": [
+   "css border radius generator",
+   "css border radius generator"
+  ],
+  "popular": false,
+  "featured": false,
+  "status": "active",
+  "offline": true,
+  "privacy": "local"
+ },
+ {
+  "id": "css-text-shadow-generator",
+  "name": "CSS Text Shadow Generator",
+  "category": "design-tools",
+  "description": "Design a text shadow with live preview.",
+  "keywords": [
+   "css text shadow generator",
+   "css text shadow generator"
+  ],
+  "popular": false,
+  "featured": false,
+  "status": "active",
+  "offline": true,
+  "privacy": "local"
+ },
+ {
+  "id": "css-button-generator",
+  "name": "CSS Button Generator",
+  "category": "design-tools",
+  "description": "Style a button and copy the CSS.",
+  "keywords": [
+   "css button generator",
+   "css button generator"
+  ],
+  "popular": false,
+  "featured": false,
+  "status": "active",
+  "offline": true,
+  "privacy": "local"
+ },
+ {
+  "id": "css-minifier",
+  "name": "CSS Minifier",
+  "category": "developer-tools",
+  "description": "Basic CSS minifier that removes comments and whitespace.",
+  "keywords": [
+   "css minifier",
+   "css minifier"
+  ],
+  "popular": false,
+  "featured": false,
+  "status": "active",
+  "offline": true,
+  "privacy": "local"
+ },
+ {
+  "id": "css-formatter",
+  "name": "CSS Formatter",
+  "category": "developer-tools",
+  "description": "Indent and tidy CSS.",
+  "keywords": [
+   "css formatter",
+   "css formatter"
+  ],
+  "popular": false,
+  "featured": false,
+  "status": "active",
+  "offline": true,
+  "privacy": "local"
+ },
+ {
+  "id": "html-minifier",
+  "name": "HTML Minifier",
+  "category": "developer-tools",
+  "description": "Remove comments and extra whitespace between tags.",
+  "keywords": [
+   "html minifier",
+   "html minifier"
+  ],
+  "popular": false,
+  "featured": false,
+  "status": "active",
+  "offline": true,
+  "privacy": "local"
+ },
+ {
+  "id": "html-formatter",
+  "name": "HTML Formatter",
+  "category": "developer-tools",
+  "description": "Indent HTML so it is easier to read.",
+  "keywords": [
+   "html formatter",
+   "html formatter"
+  ],
+  "popular": false,
+  "featured": false,
+  "status": "active",
+  "offline": true,
+  "privacy": "local"
+ },
+ {
+  "id": "image-compressor",
+  "name": "Image Compressor",
+  "category": "image-tools",
+  "description": "Shrink image file size in your browser.",
+  "keywords": [
+   "image compressor",
+   "image compressor"
+  ],
+  "popular": true,
+  "featured": true,
+  "status": "active",
+  "offline": true,
+  "privacy": "local",
+  "module": "files"
+ },
+ {
+  "id": "image-resizer",
+  "name": "Image Resizer",
+  "category": "image-tools",
+  "description": "Change image width and height.",
+  "keywords": [
+   "image resizer",
+   "image resizer"
+  ],
+  "popular": true,
+  "featured": true,
+  "status": "active",
+  "offline": true,
+  "privacy": "local",
+  "module": "files"
+ },
+ {
+  "id": "image-cropper",
+  "name": "Image Cropper",
+  "category": "image-tools",
+  "description": "Crop an image to exact pixel values.",
+  "keywords": [
+   "image cropper",
+   "image cropper"
+  ],
+  "popular": false,
+  "featured": false,
+  "status": "active",
+  "offline": true,
+  "privacy": "local",
+  "module": "files"
+ },
+ {
+  "id": "image-rotator",
+  "name": "Image Rotator",
+  "category": "image-tools",
+  "description": "Rotate an image by 90, 180 or 270 degrees.",
+  "keywords": [
+   "image rotator",
+   "image rotator"
+  ],
+  "popular": false,
+  "featured": false,
+  "status": "active",
+  "offline": true,
+  "privacy": "local",
+  "module": "files"
+ },
+ {
+  "id": "image-flipper",
+  "name": "Image Flipper",
+  "category": "image-tools",
+  "description": "Flip an image horizontally or vertically.",
+  "keywords": [
+   "image flipper",
+   "image flipper"
+  ],
+  "popular": false,
+  "featured": false,
+  "status": "active",
+  "offline": true,
+  "privacy": "local",
+  "module": "files"
+ },
+ {
+  "id": "image-converter",
+  "name": "Image Converter",
+  "category": "image-tools",
+  "description": "Convert images between PNG, JPEG and WebP.",
+  "keywords": [
+   "image converter",
+   "image converter"
+  ],
+  "popular": false,
+  "featured": false,
+  "status": "active",
+  "offline": true,
+  "privacy": "local",
+  "module": "files"
+ },
+ {
+  "id": "jpg-to-png",
+  "name": "JPG to PNG",
+  "category": "image-tools",
+  "description": "Convert JPG images to PNG.",
+  "keywords": [
+   "jpg to png",
+   "jpg to png"
+  ],
+  "popular": true,
+  "featured": true,
+  "status": "active",
+  "offline": true,
+  "privacy": "local",
+  "module": "files"
+ },
+ {
+  "id": "png-to-jpg",
+  "name": "PNG to JPG",
+  "category": "image-tools",
+  "description": "Convert PNG images to JPG.",
+  "keywords": [
+   "png to jpg",
+   "png to jpg"
+  ],
+  "popular": false,
+  "featured": false,
+  "status": "active",
+  "offline": true,
+  "privacy": "local",
+  "module": "files"
+ },
+ {
+  "id": "jpg-to-webp",
+  "name": "JPG to WebP",
+  "category": "image-tools",
+  "description": "Convert JPG images to WebP.",
+  "keywords": [
+   "jpg to webp",
+   "jpg to webp"
+  ],
+  "popular": false,
+  "featured": false,
+  "status": "active",
+  "offline": true,
+  "privacy": "local",
+  "module": "files"
+ },
+ {
+  "id": "png-to-webp",
+  "name": "PNG to WebP",
+  "category": "image-tools",
+  "description": "Convert PNG images to WebP.",
+  "keywords": [
+   "png to webp",
+   "png to webp"
+  ],
+  "popular": false,
+  "featured": false,
+  "status": "active",
+  "offline": true,
+  "privacy": "local",
+  "module": "files"
+ },
+ {
+  "id": "webp-to-jpg",
+  "name": "WebP to JPG",
+  "category": "image-tools",
+  "description": "Convert WebP images to JPG.",
+  "keywords": [
+   "webp to jpg",
+   "webp to jpg"
+  ],
+  "popular": false,
+  "featured": false,
+  "status": "active",
+  "offline": true,
+  "privacy": "local",
+  "module": "files"
+ },
+ {
+  "id": "webp-to-png",
+  "name": "WebP to PNG",
+  "category": "image-tools",
+  "description": "Convert WebP images to PNG.",
+  "keywords": [
+   "webp to png",
+   "webp to png"
+  ],
+  "popular": false,
+  "featured": false,
+  "status": "active",
+  "offline": true,
+  "privacy": "local",
+  "module": "files"
+ },
+ {
+  "id": "image-to-pdf",
+  "name": "Image to PDF",
+  "category": "image-tools",
+  "description": "Turn an image into a PDF.",
+  "keywords": [
+   "image to pdf",
+   "image to pdf"
+  ],
+  "popular": false,
+  "featured": false,
+  "status": "active",
+  "offline": true,
+  "privacy": "local",
+  "module": "files"
+ },
+ {
+  "id": "photo-size-reducer",
+  "name": "Photo Size Reducer",
+  "category": "image-tools",
+  "description": "Reduce a photo to a target size in KB.",
+  "keywords": [
+   "photo size reducer",
+   "photo size reducer"
+  ],
+  "popular": false,
+  "featured": false,
+  "status": "active",
+  "offline": true,
+  "privacy": "local",
+  "module": "files"
+ },
+ {
+  "id": "image-dimension-checker",
+  "name": "Image Dimension Checker",
+  "category": "image-tools",
+  "description": "Check an image's width, height and aspect ratio.",
+  "keywords": [
+   "image dimension checker",
+   "image dimension checker"
+  ],
+  "popular": false,
+  "featured": false,
+  "status": "active",
+  "offline": true,
+  "privacy": "local",
+  "module": "files"
+ },
+ {
+  "id": "image-file-size-checker",
+  "name": "Image File Size Checker",
+  "category": "image-tools",
+  "description": "Check an image's file size.",
+  "keywords": [
+   "image file size checker",
+   "image file size checker"
+  ],
+  "popular": false,
+  "featured": false,
+  "status": "active",
+  "offline": true,
+  "privacy": "local",
+  "module": "files"
+ },
+ {
+  "id": "image-color-picker",
+  "name": "Image Color Picker",
+  "category": "image-tools",
+  "description": "Click any pixel of an image to get its colour.",
+  "keywords": [
+   "image color picker",
+   "image color picker"
+  ],
+  "popular": false,
+  "featured": false,
+  "status": "active",
+  "offline": true,
+  "privacy": "local",
+  "module": "files"
+ },
+ {
+  "id": "add-text-to-image",
+  "name": "Add Text to Image",
+  "category": "image-tools",
+  "description": "Write text onto an image.",
+  "keywords": [
+   "add text to image",
+   "add text to image"
+  ],
+  "popular": false,
+  "featured": false,
+  "status": "active",
+  "offline": true,
+  "privacy": "local",
+  "module": "files"
+ },
+ {
+  "id": "add-watermark",
+  "name": "Add Watermark",
+  "category": "image-tools",
+  "description": "Add a text watermark to an image.",
+  "keywords": [
+   "add watermark",
+   "add watermark"
+  ],
+  "popular": false,
+  "featured": false,
+  "status": "active",
+  "offline": true,
+  "privacy": "local",
+  "module": "files"
+ },
+ {
+  "id": "blur-image",
+  "name": "Blur Image",
+  "category": "image-tools",
+  "description": "Blur an image.",
+  "keywords": [
+   "blur image",
+   "blur image"
+  ],
+  "popular": false,
+  "featured": false,
+  "status": "active",
+  "offline": true,
+  "privacy": "local",
+  "module": "files"
+ },
+ {
+  "id": "pixelate-image",
+  "name": "Pixelate Image",
+  "category": "image-tools",
+  "description": "Pixelate an image.",
+  "keywords": [
+   "pixelate image",
+   "pixelate image"
+  ],
+  "popular": false,
+  "featured": false,
+  "status": "active",
+  "offline": true,
+  "privacy": "local",
+  "module": "files"
+ },
+ {
+  "id": "grayscale-image",
+  "name": "Grayscale Image",
+  "category": "image-tools",
+  "description": "Turn an image black and white.",
+  "keywords": [
+   "grayscale image",
+   "grayscale image"
+  ],
+  "popular": false,
+  "featured": false,
+  "status": "active",
+  "offline": true,
+  "privacy": "local",
+  "module": "files"
+ },
+ {
+  "id": "brightness-adjuster",
+  "name": "Brightness Adjuster",
+  "category": "image-tools",
+  "description": "Make an image lighter or darker.",
+  "keywords": [
+   "brightness adjuster",
+   "brightness adjuster"
+  ],
+  "popular": false,
+  "featured": false,
+  "status": "active",
+  "offline": true,
+  "privacy": "local",
+  "module": "files"
+ },
+ {
+  "id": "contrast-adjuster",
+  "name": "Contrast Adjuster",
+  "category": "image-tools",
+  "description": "Increase or reduce image contrast.",
+  "keywords": [
+   "contrast adjuster",
+   "contrast adjuster"
+  ],
+  "popular": false,
+  "featured": false,
+  "status": "active",
+  "offline": true,
+  "privacy": "local",
+  "module": "files"
+ },
+ {
+  "id": "screenshot-cropper",
+  "name": "Screenshot Cropper",
+  "category": "image-tools",
+  "description": "Trim the edges off a screenshot.",
+  "keywords": [
+   "screenshot cropper",
+   "screenshot cropper"
+  ],
+  "popular": false,
+  "featured": false,
+  "status": "active",
+  "offline": true,
+  "privacy": "local",
+  "module": "files"
+ },
+ {
+  "id": "jpg-to-pdf",
+  "name": "JPG to PDF",
+  "category": "pdf-tools",
+  "description": "Convert a JPG image to a PDF.",
+  "keywords": [
+   "jpg to pdf",
+   "jpg to pdf"
+  ],
+  "popular": false,
+  "featured": false,
+  "status": "active",
+  "offline": true,
+  "privacy": "local",
+  "module": "files"
+ },
+ {
+  "id": "png-to-pdf",
+  "name": "PNG to PDF",
+  "category": "pdf-tools",
+  "description": "Convert a PNG image to a PDF.",
+  "keywords": [
+   "png to pdf",
+   "png to pdf"
+  ],
+  "popular": false,
+  "featured": false,
+  "status": "active",
+  "offline": true,
+  "privacy": "local",
+  "module": "files"
+ },
+ {
+  "id": "images-to-pdf",
+  "name": "Images to PDF",
+  "category": "pdf-tools",
+  "description": "Combine several images into one PDF.",
+  "keywords": [
+   "images to pdf",
+   "images to pdf"
+  ],
+  "popular": false,
+  "featured": false,
+  "status": "active",
+  "offline": true,
+  "privacy": "local",
+  "module": "files"
+ },
+ {
+  "id": "text-to-pdf",
+  "name": "Text to PDF",
+  "category": "pdf-tools",
+  "description": "Turn plain text into a PDF.",
+  "keywords": [
+   "text to pdf",
+   "text to pdf"
+  ],
+  "popular": false,
+  "featured": false,
+  "status": "active",
+  "offline": true,
+  "privacy": "local",
+  "module": "files"
+ },
+ {
+  "id": "pdf-page-counter",
+  "name": "PDF Page Counter",
+  "category": "pdf-tools",
+  "description": "Count the pages in a PDF.",
+  "keywords": [
+   "pdf page counter",
+   "pdf page counter"
+  ],
+  "popular": false,
+  "featured": false,
+  "status": "active",
+  "offline": true,
+  "privacy": "local",
+  "module": "files"
+ },
+ {
+  "id": "pdf-size-checker",
+  "name": "PDF Size Checker",
+  "category": "pdf-tools",
+  "description": "Check a PDF's file size.",
+  "keywords": [
+   "pdf size checker",
+   "pdf size checker"
+  ],
+  "popular": false,
+  "featured": false,
+  "status": "active",
+  "offline": true,
+  "privacy": "local",
+  "module": "files"
+ },
+ {
+  "id": "pdf-metadata-viewer",
+  "name": "PDF Metadata Viewer",
+  "category": "pdf-tools",
+  "description": "View a PDF's title, author and dates.",
+  "keywords": [
+   "pdf metadata viewer",
+   "pdf metadata viewer"
+  ],
+  "popular": false,
+  "featured": false,
+  "status": "active",
+  "offline": true,
+  "privacy": "local",
+  "module": "files"
+ },
+ {
+  "id": "pdf-text-extractor",
+  "name": "PDF Text Extractor",
+  "category": "pdf-tools",
+  "description": "Copy the selectable text out of a PDF.",
+  "keywords": [
+   "pdf text extractor",
+   "pdf text extractor"
+  ],
+  "popular": false,
+  "featured": false,
+  "status": "active",
+  "offline": true,
+  "privacy": "local",
+  "module": "files"
+ },
+ {
+  "id": "pdf-splitter",
+  "name": "PDF Splitter",
+  "category": "pdf-tools",
+  "description": "Extract pages or split a PDF into single pages.",
+  "keywords": [
+   "pdf splitter",
+   "pdf splitter"
+  ],
+  "popular": false,
+  "featured": false,
+  "status": "active",
+  "offline": true,
+  "privacy": "local",
+  "module": "files"
+ },
+ {
+  "id": "pdf-merger",
+  "name": "PDF Merger",
+  "category": "pdf-tools",
+  "description": "Merge several PDFs into one.",
+  "keywords": [
+   "pdf merger",
+   "pdf merger"
+  ],
+  "popular": true,
+  "featured": true,
+  "status": "active",
+  "offline": true,
+  "privacy": "local",
+  "module": "files"
+ },
+ {
+  "id": "pdf-page-reorder",
+  "name": "PDF Page Reorder",
+  "category": "pdf-tools",
+  "description": "Reorder, remove or repeat PDF pages.",
+  "keywords": [
+   "pdf page reorder",
+   "pdf page reorder"
+  ],
+  "popular": false,
+  "featured": false,
+  "status": "active",
+  "offline": true,
+  "privacy": "local",
+  "module": "files"
+ },
+ {
+  "id": "pdf-to-images",
+  "name": "PDF to Images",
+  "category": "pdf-tools",
+  "description": "Turn PDF pages into PNG images.",
+  "keywords": [
+   "pdf to images",
+   "pdf to images"
+  ],
+  "popular": false,
+  "featured": false,
+  "status": "active",
+  "offline": true,
+  "privacy": "local",
+  "module": "files"
+ },
+ {
+  "id": "document-word-counter",
+  "name": "Document Word Counter",
+  "category": "pdf-tools",
+  "description": "Count words in a text-based document.",
+  "keywords": [
+   "document word counter",
+   "document word counter"
+  ],
+  "popular": false,
+  "featured": false,
+  "status": "active",
+  "offline": true,
+  "privacy": "local",
+  "module": "files"
+ },
+ {
+  "id": "file-size-checker",
+  "name": "File Size Checker",
+  "category": "pdf-tools",
+  "description": "Check the size of any file.",
+  "keywords": [
+   "file size checker",
+   "file size checker"
+  ],
+  "popular": false,
+  "featured": false,
+  "status": "active",
+  "offline": true,
+  "privacy": "local",
+  "module": "files"
+ },
+ {
+  "id": "file-extension-checker",
+  "name": "File Extension Checker",
+  "category": "pdf-tools",
+  "description": "Check whether a file's extension matches its content.",
+  "keywords": [
+   "file extension checker",
+   "file extension checker"
+  ],
+  "popular": false,
+  "featured": false,
+  "status": "active",
+  "offline": true,
+  "privacy": "local",
+  "module": "files"
+ },
+ {
+  "id": "qr-code-generator",
+  "name": "QR Code Generator",
+  "category": "security-tools",
+  "description": "Create a QR code image from text or a URL.",
+  "keywords": [
+   "qr code generator",
+   "qr code generator"
+  ],
+  "popular": true,
+  "featured": true,
+  "status": "active",
+  "offline": true,
+  "privacy": "local",
+  "module": "extra"
+ },
+ {
+  "id": "barcode-generator",
+  "name": "Barcode Generator",
+  "category": "security-tools",
+  "description": "Create a barcode image.",
+  "keywords": [
+   "barcode generator",
+   "barcode generator"
+  ],
+  "popular": false,
+  "featured": false,
+  "status": "active",
+  "offline": true,
+  "privacy": "local",
+  "module": "extra"
+ },
+ {
+  "id": "javascript-minifier",
+  "name": "JavaScript Minifier",
+  "category": "developer-tools",
+  "description": "Basic JavaScript minifier. Does not run your code.",
+  "keywords": [
+   "javascript minifier",
+   "javascript minifier"
+  ],
+  "popular": false,
+  "featured": false,
+  "status": "active",
+  "offline": true,
+  "privacy": "local",
+  "module": "extra"
+ },
+ {
+  "id": "javascript-formatter",
+  "name": "JavaScript Formatter",
+  "category": "developer-tools",
+  "description": "Basic JavaScript formatter. Does not run your code.",
+  "keywords": [
+   "javascript formatter",
+   "javascript formatter"
+  ],
+  "popular": false,
+  "featured": false,
+  "status": "active",
+  "offline": true,
+  "privacy": "local",
+  "module": "extra"
+ },
+ {
+  "id": "simple-invoice-generator",
+  "name": "Simple Invoice Generator",
+  "category": "business-tools",
+  "description": "Create a printable invoice.",
+  "keywords": [
+   "simple invoice generator",
+   "simple invoice generator"
+  ],
+  "popular": false,
+  "featured": false,
+  "status": "active",
+  "offline": true,
+  "privacy": "local",
+  "module": "extra"
+ },
+ {
+  "id": "gst-invoice-generator",
+  "name": "GST Invoice Generator",
+  "category": "business-tools",
+  "description": "Create a printable GST invoice with CGST, SGST or IGST.",
+  "keywords": [
+   "gst invoice generator",
+   "gst invoice generator"
+  ],
+  "popular": false,
+  "featured": false,
+  "status": "active",
+  "offline": true,
+  "privacy": "local",
+  "module": "extra"
+ },
+ {
+  "id": "receipt-generator",
+  "name": "Receipt Generator",
+  "category": "business-tools",
+  "description": "Create a printable receipt.",
+  "keywords": [
+   "receipt generator",
+   "receipt generator"
+  ],
+  "popular": false,
+  "featured": false,
+  "status": "active",
+  "offline": true,
+  "privacy": "local",
+  "module": "extra"
+ },
+ {
+  "id": "camera-test",
+  "name": "Camera Test",
+  "category": "utilities",
+  "description": "Check that your camera works.",
+  "keywords": [
+   "camera test",
+   "camera test"
+  ],
+  "popular": false,
+  "featured": false,
+  "status": "active",
+  "offline": false,
+  "privacy": "local",
+  "module": "media",
+  "permissions": [
+   "Camera"
+  ]
+ },
+ {
+  "id": "webcam-photo-capture",
+  "name": "Webcam Photo Capture",
+  "category": "utilities",
+  "description": "Take a photo with your webcam and download it.",
+  "keywords": [
+   "webcam photo capture",
+   "webcam photo capture"
+  ],
+  "popular": false,
+  "featured": false,
+  "status": "active",
+  "offline": false,
+  "privacy": "local",
+  "module": "media",
+  "permissions": [
+   "Camera"
+  ]
+ },
+ {
+  "id": "screen-capture",
+  "name": "Screen Capture",
+  "category": "utilities",
+  "description": "Preview your screen and save a screenshot.",
+  "keywords": [
+   "screen capture",
+   "screen capture"
+  ],
+  "popular": false,
+  "featured": false,
+  "status": "active",
+  "offline": false,
+  "privacy": "local",
+  "module": "media",
+  "permissions": [
+   "Screen"
+  ]
+ },
+ {
+  "id": "microphone-test",
+  "name": "Microphone Test",
+  "category": "utilities",
+  "description": "See a live level meter for your microphone.",
+  "keywords": [
+   "microphone test",
+   "microphone test"
+  ],
+  "popular": false,
+  "featured": false,
+  "status": "active",
+  "offline": false,
+  "privacy": "local",
+  "module": "media",
+  "permissions": [
+   "Microphone"
+  ]
+ },
+ {
+  "id": "qr-scanner",
+  "name": "QR Scanner",
+  "category": "utilities",
+  "description": "Scan a QR code with your camera.",
+  "keywords": [
+   "qr scanner",
+   "qr scanner"
+  ],
+  "popular": false,
+  "featured": false,
+  "status": "active",
+  "offline": false,
+  "privacy": "local",
+  "module": "media",
+  "permissions": [
+   "Camera"
+  ]
+ },
+ {
+  "id": "touchscreen-tester",
+  "name": "Touchscreen Tester",
+  "category": "utilities",
+  "description": "Test multi-touch on your screen.",
+  "keywords": [
+   "touchscreen tester",
+   "touchscreen tester"
+  ],
+  "popular": false,
+  "featured": false,
+  "status": "active",
+  "offline": true,
+  "privacy": "local",
+  "module": "media"
+ },
+ {
+  "id": "alarm-timer",
+  "name": "Alarm Timer",
+  "category": "utilities",
+  "description": "Set an alarm that rings while the page is open.",
+  "keywords": [
+   "alarm timer",
+   "alarm timer"
+  ],
+  "popular": false,
+  "featured": false,
+  "status": "active",
+  "offline": true,
+  "privacy": "local",
+  "module": "media"
+ },
+ {
+  "id": "calendar",
+  "name": "Calendar",
+  "category": "utilities",
+  "description": "A monthly calendar.",
+  "keywords": [
+   "calendar",
+   "calendar"
+  ],
+  "popular": false,
+  "featured": false,
+  "status": "active",
+  "offline": true,
+  "privacy": "local",
+  "module": "media"
+ },
+ {
+  "id": "world-clock",
+  "name": "World Clock",
+  "category": "utilities",
+  "description": "See the time in several time zones.",
+  "keywords": [
+   "world clock",
+   "world clock"
+  ],
+  "popular": false,
+  "featured": false,
+  "status": "active",
+  "offline": true,
+  "privacy": "local",
+  "module": "media"
+ }
+]

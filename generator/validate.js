@@ -1,0 +1,13 @@
+const fs=require("fs"),path=require("path"),R=p=>path.join(__dirname,"..",p);let bad=0;const f=m=>{bad++;console.log("FAIL:",m)};
+const tools=JSON.parse(fs.readFileSync(R("data/tools.json"))),cats=JSON.parse(fs.readFileSync(R("data/categories.json")));
+global.window={};["tools.js",...fs.readdirSync(R("js")).filter(x=>/^tools-.*\.js$/.test(x))].forEach(x=>eval(fs.readFileSync(R("js/"+x),"utf8").replace(/window\./g,"global.")));
+const ids=new Set(),titles=new Set();
+tools.forEach(t=>{if(ids.has(t.id))f("dup id "+t.id);ids.add(t.id);if(!JT_TOOLS[t.id])f("no implementation "+t.id);if(t.module&&!fs.existsSync(R(`js/tools-${t.module}.js`)))f("missing module "+t.module);if(!cats.find(c=>c.id===t.category))f("bad category "+t.id);
+const p=R(`tools/${t.id}/index.html`);if(!fs.existsSync(p))return f("missing page "+t.id);const h=fs.readFileSync(p,"utf8"),ti=(h.match(/<title>(.*?)<\/title>/)||[])[1];if(titles.has(ti))f("dup title "+ti);titles.add(ti);if(!/rel="canonical"/.test(h))f("no canonical "+t.id);
+JSON.parse(h.match(/ld\+json">(.*?)<\/script>/)[1].replace(/\\u003c/g,"<"))});
+Object.keys(JT_TOOLS).forEach(k=>{if(!ids.has(k))f("implemented but not in registry: "+k)});
+const walk=d=>fs.readdirSync(d,{withFileTypes:true}).flatMap(e=>e.isDirectory()?walk(path.join(d,e.name)):[path.join(d,e.name)]);
+let links=0;walk(R(".")).filter(x=>x.endsWith(".html")&&!x.endsWith("404.html")).forEach(x=>{const h=fs.readFileSync(x,"utf8");for(const m of h.matchAll(/(?:href|src)="([^"#:]+?)"/g)){links++;let t=path.resolve(path.dirname(x),m[1].split("?")[0]);if(fs.existsSync(t)&&fs.statSync(t).isDirectory())t=path.join(t,"index.html");if(!fs.existsSync(t))f(`${path.relative(R("."),x)} -> ${m[1]}`)}});
+(fs.readFileSync(R("sitemap.xml"),"utf8").match(/<loc>(.*?)<\/loc>/g)||[]).forEach(l=>{const u=l.replace(/<\/?loc>/g,"").replace("https://asjadonsolutions.github.io/JadonTools/","");if(!fs.existsSync(R(u+"index.html")))f("sitemap "+u)});
+["localhost","127.0.0.1","eval(","new Function"].forEach(w=>walk(R(".")).filter(x=>/\.(html|js|json)$/.test(x)&&!x.includes("validate.js")).forEach(x=>{if(fs.readFileSync(x,"utf8").includes(w))f(w+" in "+path.relative(R("."),x))}));
+console.log(`${tools.length} tools, ${links} internal links checked, ${bad} problems`);process.exit(bad?1:0);

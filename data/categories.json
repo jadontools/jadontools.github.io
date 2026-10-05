@@ -1,0 +1,52 @@
+[
+ {
+  "id": "text-tools",
+  "name": "Text Tools",
+  "description": "Count, clean and transform text in your browser."
+ },
+ {
+  "id": "calculators",
+  "name": "Calculators",
+  "description": "Quick everyday calculations."
+ },
+ {
+  "id": "converters",
+  "name": "Unit Converters",
+  "description": "Convert between units accurately in your browser."
+ },
+ {
+  "id": "security-tools",
+  "name": "Security & Generators",
+  "description": "Generate passwords and secure values locally."
+ },
+ {
+  "id": "developer-tools",
+  "name": "Developer Tools",
+  "description": "Format and validate developer data."
+ },
+ {
+  "id": "design-tools",
+  "name": "Design Tools",
+  "description": "Colour and design helpers."
+ },
+ {
+  "id": "business-tools",
+  "name": "Work & Business Tools",
+  "description": "Everyday work and time calculations."
+ },
+ {
+  "id": "image-tools",
+  "name": "Image Tools",
+  "description": "Compress, resize and convert images."
+ },
+ {
+  "id": "pdf-tools",
+  "name": "PDF & Document Tools",
+  "description": "Work with PDFs and documents."
+ },
+ {
+  "id": "utilities",
+  "name": "Daily Utilities",
+  "description": "Timers, clocks and browser or device checks."
+ }
+]

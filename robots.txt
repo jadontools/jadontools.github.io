@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://asjadonsolutions.github.io/JadonTools/sitemap.xml

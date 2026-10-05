@@ -1,0 +1,1 @@
+pdf-lib 1.17.1 (MIT), pdf.js 5.6.205 legacy build (Apache-2.0), QRCode for JavaScript by Kazuhiko Arase (MIT). Bundled locally so these tools do not need a network connection to a CDN.

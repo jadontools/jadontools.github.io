@@ -1,0 +1,32 @@
+{
+ "siteName": "Jadon Tools",
+ "siteUrl": "https://asjadonsolutions.github.io/JadonTools/",
+ "version": "1.3.0",
+ "maintenanceMode": false,
+ "defaultTheme": "dark",
+ "ads": {
+  "enabled": true,
+  "mode": "test",
+  "postActionEnabled": true,
+  "defaultCooldownMs": 120000,
+  "maxAdsPerSession": 3
+ },
+ "analytics": {
+  "enabled": false
+ },
+ "consent": "not-required",
+ "featureFlags": {
+  "favorites": true,
+  "recentTools": true,
+  "ads": true,
+  "analytics": false,
+  "pwa": true,
+  "sharing": true
+ },
+ "usage": {
+  "enabled": true,
+  "freeUses": 2,
+  "sharesToUnlock": 5,
+  "bonusUses": 5
+ }
+}
